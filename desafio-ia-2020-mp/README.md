@@ -17,41 +17,41 @@ O conjunto de dados deste desafio foi produzido a partir da base de 2019. Os dad
 
 #### Colunas disponíveis ####
 
-* id: discreto
-* host_name: apelido do proprietário
-* amenities: texto com lista de comodidades
-* zipcode: CEP
-* latitude: discreto
-* longitude: discreto
-* price: valor da diária por pessoa
-* accommodates: número de pessoas que podem se acomodar, segundo o proprietário
-* bedrooms: número de quartos
-* cleaning_fee: taxa de limpeza
-* beds: número de camas
-* bathrooms: número de banheiros
-* security_deposit: depósito do seguro
-* guests_included: quantos convidados são aceitos
-* calculated_ host _listings _count: número atual de anúncios vigentes do proprietário
-* host_ is_ superhost: categórico
-* host_ response_ time: categórico
-* minimum_nights: número mínimo de diárias
-* extra_people: diária adicional por pessoa
-* host_ identity_ verified: categórico
-* maximum_nights: número máximo de diárias
-* bed_type: categórico
-* cancellation_policy: categórico
-* property_ type: categórico
-* numberofreviews: número total de reviews de hóspedes, dado histórico
-* instant_bookable: categórico
-* host_ response_ rate: taxa (em percentual)
-* review_ scores_ location: discreto (nota de 0 a 10)
-* review_ scores_ cleanliness: discreto (nota de 0 a 10)
-* review_ scores_ accuracy: discreto (nota de 0 a 10)
-* review_ scores_ checkin: discreto (nota de 0 a 10)
-* review_ scores_ communication: discreto (nota de 0 a 10)
-* neighbourhood: bairro
-* review_ scores_ value: discreto (nota de 0 a 10)
-* room_type: categórico
+* *id*: discreto
+* *host_name*: apelido do proprietário
+* *amenities*: texto com lista de comodidades
+* *zipcode*: CEP
+* *latitude*: discreto
+* *longitude*: discreto
+* *price*: valor da diária por pessoa
+* *accommodates*: número de pessoas que podem se acomodar, segundo o proprietário
+* *bedrooms*: número de quartos
+* *cleaning_fee*: taxa de limpeza
+* *beds*: número de camas
+* *bathrooms*: número de banheiros
+* *security_deposit*: depósito do seguro
+* *guests_included*: quantos convidados são aceitos
+* *calculated_ host _listings _count*: número atual de anúncios vigentes do proprietário
+* *host_ is_ superhost*: categórico
+* *host_ response_ time*: categórico
+* *minimum_nights*: número mínimo de diárias
+* *extra_people*: diária adicional por pessoa
+* *host_ identity_ verified*: categórico
+* *maximum_nights*: número máximo de diárias
+* *bed_type*: categórico
+* *cancellation_policy*: categórico
+* *property_ type*: categórico
+* *numberofreviews*: número total de reviews de hóspedes, dado histórico
+* *instant_bookable*: categórico
+* *host_ response_ rate*: taxa (em percentual)
+* *review_ scores_ location*: discreto (nota de 0 a 10)
+* *review_ scores_ cleanliness*: discreto (nota de 0 a 10)
+* *review_ scores_ accuracy*: discreto (nota de 0 a 10)
+* *review_ scores_ checkin*: discreto (nota de 0 a 10)
+* *review_ scores_ communication*: discreto (nota de 0 a 10)
+* *neighbourhood*: bairro
+* *review_ scores_ value*: discreto (nota de 0 a 10)
+* *room_type*: categórico
 
 ### Objetivo ###
 
@@ -66,6 +66,7 @@ O desvio da raiz quadrada média ou da raiz quadrada média é uma medida freqü
 Maiores informações sobre RMSE:
 
 [https://pt.wikipedia.org/wiki/Erro_quadr%C3%A1tico_m%C3%A9dio](https://pt.wikipedia.org/wiki/Erro_quadr%C3%A1tico_m%C3%A9dio)
+
 [https://en.wikipedia.org/wiki/Root-mean-square_deviation](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
 ### Formato do arquivo de submissão ###
@@ -74,8 +75,8 @@ Você deve enviar um arquivo CSV com exatamente a quantidade de registros do tes
 
 O arquivo deve ter exatamente 3294 registros (3293 predições e 1 cabeçalho) e 2 colunas:
 
-* id: id do arquivo de teste
-* price: valor da diária da predição
+* *id*: id do arquivo de teste
+* *price*: valor da diária da predição
 
 ### Rules ###
 
@@ -90,13 +91,17 @@ O tamanho máximo de equipe é de 3 membros, equipes podem ter mudanças somente
 #### Limites de submissão ####
 
 Você pode enviar no máximo 10 resultados por dia.
+
 Você pode selecionar até 2 submissões finais para o julgamento.
 
 #### Propósito ####
+
 Esta é uma competição divertida que visa ajudar você a começar no aprendizado de máquina. Embora o conjunto de dados esteja publicamente disponível na Internet, procurar respostas prontas acaba com todo o propósito. Ou seja, não faça isso. :D
 
 Não trapaceie!
+
 Aplique-se!
+
 Divirta-se!
 
 ### Perguntas mais frequentes ###
