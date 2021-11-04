@@ -1,5 +1,5 @@
-# Projetos Python
-<p>Contém projetos desenvolvidos em linguagem <a target="_blank" href="https://www.python.org/">Python</a></p>
+# Python Projects
+<p>Contains projects developed in <a target="_blank" href="https://www.python.org/">Python</a> language</p>
 <ul>
   <li><a href="desafio-ia-2020-chatbot">Desafio IA 2020 - Etapa PLN e Chatbots (Serpro)</a></li>
   <li><a href="desafio-ia-2020-mp">Desafio IA 2020 - Etapa MP (Serpro)</a></li>
